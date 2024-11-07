@@ -37,5 +37,4 @@ console.log(`${cathyPet}`);
 const suePet = model.eval(sue);
 console.log(`${suePet}`);
 
-// Note to self: cd C:\Users\hello\CMPM 118 Whitehead\Game Constraints With Z3
 // node childrenAndPets.js
